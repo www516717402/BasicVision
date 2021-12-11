@@ -4,7 +4,7 @@ Small demo written during the studet and Only open part code. See [URL](https://
 
 Only for referrence since Inadequate ability make more bug in this project.
 
-Welcome to **Start、Fork、PR** and hope **Follow/Like** my blog as follows:
+Welcome to **Start、Fork、PR** and hope **Follow or Like** my blog as follows:
 
 [CNBlog](https://www.cnblogs.com/wjy-lulu/)
 
